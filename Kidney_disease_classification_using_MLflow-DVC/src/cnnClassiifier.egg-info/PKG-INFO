@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassiifier
+Version: 0.0.0
+Summary: A small python package for cnn app
+Home-page: https://github.com/Ravikiran0303/Kidney_disease_classification_using_MLflow-DVC
+Author: Ravikiran0303
+Author-email: ravikiranhs03@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ravikiran0303/Kidney_disease_classification_using_MLflow-DVC/issues
+
+# Kidney_disease_classification_using_MLflow-DVC
